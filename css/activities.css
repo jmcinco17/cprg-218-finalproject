@@ -63,7 +63,12 @@ main ul{
 
 
 
-
-footer{
+ footer p{
+    position: absolute;
+    width: 100%;
+    background-color: #836953;
+    padding: 2rem;
+    color: white;
+    text-align: center;
+    }
     
-}
